@@ -38,7 +38,7 @@
 
 ---
 برای دریافت آموزش های بیشتر در پیام رسان بله عضو کانال ما باشید :‌
-# https://ble.ir/avasam_edu
+https://ble.ir/avasam_edu
 موفق باشید.
 
 <a href="https://avasam.ir" target="_blank" rel="do-follow follow sponsered">🌱 avasam.ir  </a>
